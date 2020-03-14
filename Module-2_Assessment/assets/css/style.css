@@ -1,0 +1,35 @@
+body
+{
+  background-color: black;
+  color: white;
+  font-family: courier;
+  text-align: center;
+}
+img
+{
+  margin: 25px 0px;
+}
+p
+{
+  margin: 15px;
+}
+#top
+{
+  font-size: 30px;
+}
+.outer
+{
+  background-image: url('../images/galaxy.jpg');
+  border: 2px solid teal;
+  border-radius: 25px;
+  box-sizing: border-box;
+  width: 500px;
+  padding: 15px;
+  margin: auto;
+}
+.inner
+{
+  background: black;
+  border: 2px solid teal;
+  border-radius: 25px;
+}
